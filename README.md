@@ -1,0 +1,2 @@
+# ejercicioGit
+ ejercicio grupal
